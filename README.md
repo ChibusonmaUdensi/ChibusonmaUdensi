@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChibusonmaUdensi, a proficient Chef., and Tech Trainee.
+- 👋 Hi, I’m @ChibusonmaUdensi, a Tech Trainee and proficient Chef..
 - 👀 I’m interested in web/app development and how to use technology to curate sweet meals.
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on projects.
