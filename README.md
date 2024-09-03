@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChibusonmaUdensi, a Tech Trainee and proficient Chef..
 - 👀 I’m interested in web/app development and how to use technology to curate sweet meals.
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering and Machine Learning
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me sheroudensi@gmail.com
 - 😄 Pronouns: She.
