@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChibusonmaUdensi, a Junior Full-Stack Engineer, Data Buff, Machine Learning Enthusiast and proficient Chef.
-- 👀 I’m interested in web/app development, machine learning technology and how to use technology to curate sweet meals.
+- 👀 I’m interested in web/app development, machine learning and how to use s to curate sweet meals.
 - 🌱 I’m currently learning Software Engineering and Machine Learning
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me maesdining@gmail.com
