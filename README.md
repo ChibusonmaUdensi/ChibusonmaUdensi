@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChibusonmaUdensi, a Junior Full-Stack Engineer, Open Source Contributor @GSSOC- GirlScript Summer of Code, Data Buff, Machine Learning Enthusiast and proficient Chef.
+- 👋 Hi, I’m @ChibusonmaUdensi, Software Engineer, Open Source Contributor, Data Buff, Machine Learning Enthusiast and proficient Chef.
 - 👀 I’m interested in web/app development, machine learning and how to use s to curate sweet meals.
 - 🌱 I’m currently learning Software Engineering and Machine Learning
 - 💞️ I’m looking to collaborate on projects.
